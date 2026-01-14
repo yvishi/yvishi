@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Laravel+%7C+REST+APIs;160%2B+LeetCode+Problems+Solved;System+Design+%26+Backend+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+REST+APIs;160%2B+LeetCode+Problems+Solved;System+Design+%26+Backend+Focused" />
 </p>
 
 ---
@@ -60,17 +60,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yvishi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yvishi&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvishi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 
 
