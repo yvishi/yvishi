@@ -85,11 +85,7 @@
 </p>
 
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yvishi/yvishi/main/dist/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
