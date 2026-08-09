@@ -13,11 +13,10 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Engineering** student at **Thapar University** *(CGPA: 9.67/10)*
+- 🎓 **Computer Engineering** student at **Thapar University**
 - 💻 **Full-Stack Developer** (MERN)
 - 🧠 Strong in **Backend Engineering, APIs & Databases**
 - 🧩 Solved **250+ DSA problems on LeetCode**
-- 🏆 Merit Scholarship recipient (Top 2%)
 
 ---
 
